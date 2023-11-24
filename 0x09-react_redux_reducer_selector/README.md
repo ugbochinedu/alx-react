@@ -1,4 +1,4 @@
-## 0x09. React Redux reducer+selector
+## 0x08. React Redux reducer+selector
 
 ### :open_file_folder: Specializations - Web Stack programming ― Back-end
 
